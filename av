@@ -1,0 +1,71 @@
+[1mdiff --git a/filethaydoiten.txt b/filethaydoiten.txt[m
+[1mdeleted file mode 100644[m
+[1mindex ace13d3..0000000[m
+[1m--- a/filethaydoiten.txt[m
+[1m+++ /dev/null[m
+[36m@@ -1 +0,0 @@[m
+[31m-new code[m
+\ No newline at end of file[m
+[1mdiff --git a/luonghieu184@gmail.com b/luonghieu184@gmail.com[m
+[1mnew file mode 100644[m
+[1mindex 0000000..6be5a44[m
+[1m--- /dev/null[m
+[1m+++ b/luonghieu184@gmail.com[m
+[36m@@ -0,0 +1,50 @@[m
+[32m+[m[32m-----BEGIN OPENSSH PRIVATE KEY-----[m
+[32m+[m[32mb3BlbnNzaC1rZXktdjEAAAAACmFlczI1Ni1jdHIAAAAGYmNyeXB0AAAAGAAAABA/Zh+jp+[m
+[32m+[m[32m9+ztb7OblF1a06AAAAEAAAAAEAAAIXAAAAB3NzaC1yc2EAAAADAQABAAACAQDjYS21yaiV[m
+[32m+[m[32mgwNja4xQ7pRdPAnlym0XyPcbGQwrcjXw8zMZ+Z6MZIRgxBOdX5Pjfoy8k0hqsMtUTl5Izm[m
+[32m+[m[32mlS1ifmkF3eJtB6jHtms0BSAUrQV7Qous5shQpJojCe+DingInJ1vRD0jKeb+tXI5JOnfyF[m
+[32m+[m[32m6wha/Mo1PSZ0vRwbGMTSnqf3R8WxY4OcX1ynoqtU2gD1dAjUOk6FS7aN03IF2HZKXM2ZBY[m
+[32m+[m[32mR4I0JJYF9d8WKYMJwJNAMUkioPgxvyxnReMdXMARZfz2MW/dbafK5mAr25zaDnkriabkmv[m
+[32m+[m[32mL3TW9vId6CXz7oyLvj9JstsPzr+JdOgiXCs7QXxH3vI/PqowUm2NLvIbo3CG6j9SGrTO67[m
+[32m+[m[32mMqV8EZgVNPpa8wnz4PoZOdiKbIGD3PU8b0x4qX794ocNckmGW49iJifCsrIkUujdJyyTsb[m
+[32m+[m[32mdBJXONetrrJEUIH/1g9H66DT1G4lO5vS3BfE3c1cFyjyaktkl17roZgoBwkAuNFCVxwjDb[m
+[32m+[m[32mtZGCMvLSzd8LrRCtGuhUGDTZMztkM8KGclXovLZ6slQaR2U5UMOWM2farKPoPQXBzJCjl1[m
+[32m+[m[32mcRGV7ug7sQB0cQYRyElVPaadJBV2HyEnbhUS5FeIpF2P3Vvr2IPrtaw+gm8L/gZLsD+2J1[m
+[32m+[m[32miB5N9XaWUam3hQGCcbn6vgbqIa3MWOyvKI24JtbDeyMQAAB1CUYL/skdfRDAec0Es0FXzE[m
+[32m+[m[32msDqjktDDQRm5guenxbt3aB3x3IitSkOWCsOeHHI75IfJTNvTn7zUnQu+dzJX7GwUsLAnMO[m
+[32m+[m[32moZUUMtJNnSfMZ3FBSXmUaDW/TiKfQM53vkqyUeWOXY+YPBZ97jvNXPNwOmYIga8Qi59x9+[m
+[32m+[m[32md+w3SMo21HlPzq522lXbq4hJVBBa6iAzO4yyZNO8rJE8OW4+IT9KnR+ERqAyde1t6R66TX[m
+[32m+[m[32mwqCy1QFV3awepcbhoOc2cUBVGBoTh58QvC8uoFIjRGP/+T/+7VvkkuBjt3PtjLCc3pTtZT[m
+[32m+[m[32mvYdHFZan7vZYM1fUDPxP6t6glKIjvFIKBeyuYa4lI+J2H63DOxuTbbDFu1/OW18KFsySNN[m
+[32m+[m[32m/bi1BvkBy33kBKwjaGcF7SYgSuVpOpolmBWYx6WN1puPoxe/W1Mu64Nr1q4uS3KuEPtYqm[m
+[32m+[m[32mhpDWSo9Lxn6hgfMZpk0Zs4jAg48qghoriPI7q9rp3mgYx4bSmuvrghcotkAdi/Kv4/wByw[m
+[32m+[m[32mzRDrY1pY4M6wzpWDjiMLmgO6c09suJBZUDRj/8uKRAWqazjtDUkEsIl0YGr5prl2HM5AYe[m
+[32m+[m[32mDXb4C12sL+cL4T6XR5MVTP7IY2/SUca2WD/g8gQp/fA4DiL1ILaPdoUOJj1fwgkxup1W1l[m
+[32m+[m[32mKhMAQfrNabmAbxyV9BTUgjGS382a12rCKNCqyoyWnzr9YDfdbTuW2CnLWirO/GZ/KJYJjI[m
+[32m+[m[32mnDyWfR3miWQRhzkVwFLZV2lCZG8UQ3bI+oG00aR4/0DjrGzwjLoZcHpyIkdiIapOiPrm5y[m
+[32m+[m[32mNHurexKWnt6+XxQK/zmtd5TgoJASMj9ccRO3bgMiBjc+/HQhM+nFoo3zBmaowDP05meQiS[m
+[32m+[m[32mxUrcPhjj/5ntdywmFbLkeSdC1+j+hX/jHYWxjK4ggIE+rxG5folDWkB17o6/1VS/fP7Q/m[m
+[32m+[m[32mUcae6SeAsJomRnziqfGkcmQces17MiWhCE27iRjCdLT0ZVKjkSt7moxaZ+rWaE+6SjF2Id[m
+[32m+[m[32mYMP/AUpCNx2gI6xNZDkNsAbSRT0ljFENcLWUEfVEUC6Tc92j/PNj6o2n6wGd+hG0LEjgXf[m
+[32m+[m[32mAAdJF/Wx+06w0ZzC2AP2v3jB0c16PJBxUtARjpg3UXqVNdHnl1YUpxSlaxlawG7BuQ/Vtv[m
+[32m+[m[32mFy2P0QjOwEldvPKwDrO0U0289YLaQYNlyGrp0w7eMYx11cj/gIFc8Ex1lq5oztfNNHvsIn[m
+[32m+[m[32mXAFTgpbuzmuarG0TYUx624YxtEODUZgwBvmXzcNEXLYULNgSUy2tTuPbsT0cZSR1PoSHEL[m
+[32m+[m[32m2a+IA9il3nx9LztTNxfvyPV0sK6nIxTuAg86xnHzxe4Vc/GC2HIG1hgXGw7b13caO23grn[m
+[32m+[m[32mXrMjJAWwus4PW1dAhrC4Remwo76hI0z3edZrjOHL7xq6Bt2vO6QdvFDjHNj3Y4MhX8QV0m[m
+[32m+[m[32mCf2iYA9b+Bm19/D+/VGnjj7UsZ1UNXF2ucMnVNql3OA9nitQ00w5PJ0tSabJIVNhIRrS5b[m
+[32m+[m[32mnQsnmDKqSXP26mYdLSyUl8p1mqConAv8LngBrHxWAJEaHBN/30TfHhE0C8Y9VjRLDEK1DR[m
+[32m+[m[32mYOzZCFpRFeFYlYxCA9cLIZIpQDdjfN/93VsZ2nEva2hwNlmvqYRt8V4u41E0HyNMHZAqve[m
+[32m+[m[32mbW6+vmeZVk8dGkOOJEP7qAfiHiK1Iw/cDKZLptXYndCT8EG4c4njnlFNTGOU65cetkIyF5[m
+[32m+[m[32m5FncriKi4CSgux5vXc4EDuxDdl04CwD/V0Am9csOHeDFe+BgWIhTZGbTmcu75of8X0pu0J[m
+[32m+[m[32mToURk6rxUibK0zEyfffsKhmiax7JKZ0yjbjdi0W6ouNcrvPBFX3aAyPZrl3lZdYK8zSrBS[m
+[32m+[m[32mBGisMuxUab5/faJGjwz1ry/zZ7/3qUJ2eUVeMiBdW0lBLTEes8kKlalbBIRc3Yr2ycmfZ+[m
+[32m+[m[32msniSvoNG0QwqbAtIccMezpSLp8I8taegbhcIgXVsy9juX26/OKaJyw8bujmQhLHDtRsN/2[m
+[32m+[m[32mwXVvi7WTKusMes2KNKw1ZslBVSlDz7GliRnOm+tO5GsfEphKe53jh0IWI3WQrCxG1ylRhs[m
+[32m+[m[32mz0CK2LfJlQKnyXR7SlXJgOO0H1vAYWShjEKqcr5dpFbpdhOMOajIBMUp0Clqx1SQq/ot6d[m
+[32m+[m[32m/OCQ1cChosKnw6eCqubmpt+Yb3xPWSjlJVmFj0vE6qdWxK3NgGbnouxdORYEETItezHR3+[m
+[32m+[m[32mcOHRStRUGJt30CvcsU3P61b6YpauDc4k1EfVQLcbqX6sfuL/rX5ephI9Ks1tIwoeAEDoAR[m
+[32m+[m[32mlSfOXOlRC3PX5+nKvGZisk1ARgMjZPbdb5kCy6eLGq3XHKlQg7G5VhbMRh4jbIjR9iTGqq[m
+[32m+[m[32m49PPp63ImIFRT1yCDQ/rYpO19Zy0oP7y85K13i+YpV2OL7Esw6GiOBgv16QmnCjfzIs6Jo[m
+[32m+[m[32mcOxBdE/6uV5/tm+6vT2DbrFcSS0/5t80nIOpVztAk9BlMdAODo9WfUyeLaUTzfveCj2kJc[m
+[32m+[m[32mOPpQEXJNgMvsJ6Vn+zrYNwI38=[m
+[32m+[m[32m-----END OPENSSH PRIVATE KEY-----[m
+[1mdiff --git a/luonghieu184@gmail.com.pub b/luonghieu184@gmail.com.pub[m
+[1mnew file mode 100644[m
+[1mindex 0000000..3be472a[m
+[1m--- /dev/null[m
+[1m+++ b/luonghieu184@gmail.com.pub[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDjYS21yaiVgwNja4xQ7pRdPAnlym0XyPcbGQwrcjXw8zMZ+Z6MZIRgxBOdX5Pjfoy8k0hqsMtUTl5IzmlS1ifmkF3eJtB6jHtms0BSAUrQV7Qous5shQpJojCe+DingInJ1vRD0jKeb+tXI5JOnfyF6wha/Mo1PSZ0vRwbGMTSnqf3R8WxY4OcX1ynoqtU2gD1dAjUOk6FS7aN03IF2HZKXM2ZBYR4I0JJYF9d8WKYMJwJNAMUkioPgxvyxnReMdXMARZfz2MW/dbafK5mAr25zaDnkriabkmvL3TW9vId6CXz7oyLvj9JstsPzr+JdOgiXCs7QXxH3vI/PqowUm2NLvIbo3CG6j9SGrTO67MqV8EZgVNPpa8wnz4PoZOdiKbIGD3PU8b0x4qX794ocNckmGW49iJifCsrIkUujdJyyTsbdBJXONetrrJEUIH/1g9H66DT1G4lO5vS3BfE3c1cFyjyaktkl17roZgoBwkAuNFCVxwjDbtZGCMvLSzd8LrRCtGuhUGDTZMztkM8KGclXovLZ6slQaR2U5UMOWM2farKPoPQXBzJCjl1cRGV7ug7sQB0cQYRyElVPaadJBV2HyEnbhUS5FeIpF2P3Vvr2IPrtaw+gm8L/gZLsD+2J1iB5N9XaWUam3hQGCcbn6vgbqIa3MWOyvKI24JtbDeyMQ== luonghieu184@gmail.com[m
